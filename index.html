@@ -1,0 +1,73 @@
+<html lang="ja">
+<head>
+<title>多次元データゲーム</title>
+<meta name="keywords" content="">
+<meta name="description" content="">
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow, all" />
+<meta name="author" content="MicroAd, Inc." />
+<meta name="copyright" content="MicroAd, Inc." />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<link rel="shortcut icon" href="./img/favicon.ico" type="img/vnd.microsoft.ico" />
+<link rel="icon" href="./img/favicon.ico" type="img/vnd.microsoft.ico" />
+<link rel="apple-touch-icon-precomposed" href="./img/apple-touch-icon-precomposed.png">
+
+<link href='http://fonts.googleapis.com/css?family=Quicksand|Nobile|Quattrocento+Sans' rel='stylesheet' type='text/css'>
+<link href='./js/lib/perfect-scrollbar.min.css' rel='stylesheet' type='text/css'>
+<link href='./css/index.css' rel='stylesheet' type='text/css'>
+
+<script data-main="./js/main" src="./js/require.js"></script>
+<script src="./js/json/3d/female03.js"></script>
+<script src="./js/json/3d/male02.js"></script>
+
+<body>
+	<div id="main">
+		<div class="load"></div>
+		<div id="canvasFrame"></div>
+		
+		<div id="leftStage">
+			
+		</div>
+		
+		<div id="rightStage">
+			<div class="scroll always-visible">
+				<div id="stage1" class="stage" style="display: none;">
+					<div class="head"></div>
+					<div class="body"></div>
+					<div class="foot"></div>
+				</div>
+				
+				<div id="stage2" class="stage" style="display: none;">
+					<div class="head"></div>
+					<div class="body"></div>
+					<div class="foot"></div>
+				</div>
+				
+				<div id="stage3" class="stage" style="display: none;">
+					<div class="head"></div>
+					<div class="body"></div>
+					<div class="foot"></div>
+				</div>
+			</div>
+		</div>
+		
+		<div id="selectArea">
+			<button id="btn1" data-num="0" class="btn_data btn_data_1 select"></button>
+			<button id="btn2" data-num="1" class="btn_data btn_data_2"></button>
+			<button id="btn3" data-num="2" class="btn_data btn_data_3"></button>
+			<button id="btn4" data-num="3" class="btn_data btn_data_4"></button>
+			<button id="lock" class="btn_lock"></button>
+		</div>
+		
+		<div id="persionInfo">
+			<div class="fs_26 bold">
+				<span>PERSONAL DATA No.</span><span id="no">-</span>
+			</div>
+			<div class="fs_24 bold c_f_yellow">
+				<span class="fs_20">AGE:</span><span id="age">-</span>&nbsp;<span id="sex"></span>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

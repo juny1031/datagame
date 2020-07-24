@@ -1,0 +1,691 @@
+/* line 6, ../../src/sass/global.sass */
+.space20 {
+  margin: 10px 0;
+}
+
+/* line 8, ../../src/sass/global.sass */
+.space25 {
+  margin: 12.5px 0;
+}
+
+/* line 10, ../../src/sass/global.sass */
+.space30 {
+  margin: 15px 0;
+}
+
+/* line 12, ../../src/sass/global.sass */
+.space40 {
+  margin: 20px 0;
+}
+
+/* line 14, ../../src/sass/global.sass */
+.space50 {
+  margin: 25px 0;
+}
+
+/* line 16, ../../src/sass/global.sass */
+.space60 {
+  margin: 30px 0;
+}
+
+/* line 18, ../../src/sass/global.sass */
+.space100 {
+  margin: 50px 0;
+}
+
+/* line 20, ../../src/sass/global.sass */
+.space150 {
+  margin: 75px 0;
+}
+
+/* line 22, ../../src/sass/global.sass */
+.space200 {
+  margin: 100px 0;
+}
+
+/* line 25, ../../src/sass/global.sass */
+.spaceW21 {
+  margin: 0 10.5px;
+}
+
+/* line 27, ../../src/sass/global.sass */
+.spaceW40 {
+  margin: 0 20px;
+}
+
+/* line 31, ../../src/sass/global.sass */
+.c_f_red {
+  color: #e20046;
+}
+
+/* line 33, ../../src/sass/global.sass */
+.c_f_yellow {
+  color: #FEDF29;
+}
+
+/* line 36, ../../src/sass/global.sass */
+.bold {
+  font-weight: bold;
+}
+
+/* line 39, ../../src/sass/global.sass */
+.fs_10 {
+  font-size: 10px;
+}
+
+/* line 41, ../../src/sass/global.sass */
+.fs_11 {
+  font-size: 11px;
+}
+
+/* line 43, ../../src/sass/global.sass */
+.fs_12 {
+  font-size: 12px;
+  line-height: 12px;
+}
+
+/* line 46, ../../src/sass/global.sass */
+.fs_13 {
+  font-size: 13px;
+  line-height: 14px;
+}
+
+/* line 49, ../../src/sass/global.sass */
+.fs_14 {
+  font-size: 14px;
+  line-height: 16px;
+}
+
+/* line 52, ../../src/sass/global.sass */
+.fs_15 {
+  font-size: 15px;
+  line-height: 18px;
+}
+
+/* line 55, ../../src/sass/global.sass */
+.fs_16 {
+  font-size: 16px;
+  line-height: 20px;
+}
+
+/* line 58, ../../src/sass/global.sass */
+.fs_17 {
+  font-size: 17px;
+  line-height: 22px;
+}
+
+/* line 61, ../../src/sass/global.sass */
+.fs_18 {
+  font-size: 18px;
+  line-height: 24px;
+}
+
+/* line 64, ../../src/sass/global.sass */
+.fs_19 {
+  font-size: 19px;
+  line-height: 26px;
+}
+
+/* line 67, ../../src/sass/global.sass */
+.fs_20 {
+  font-size: 20px;
+  line-height: 28px;
+}
+
+/* line 70, ../../src/sass/global.sass */
+.fs_21 {
+  font-size: 21px;
+  line-height: 30px;
+}
+
+/* line 73, ../../src/sass/global.sass */
+.fs_22 {
+  font-size: 22px;
+  line-height: 32px;
+}
+
+/* line 76, ../../src/sass/global.sass */
+.fs_23 {
+  font-size: 23px;
+  line-height: 34px;
+}
+
+/* line 79, ../../src/sass/global.sass */
+.fs_24 {
+  font-size: 24px;
+  line-height: 36px;
+}
+
+/* line 82, ../../src/sass/global.sass */
+.fs_25 {
+  font-size: 25px;
+  line-height: 38px;
+}
+
+/* line 85, ../../src/sass/global.sass */
+.fs_26 {
+  font-size: 26px;
+  line-height: 40px;
+}
+
+/* line 89, ../../src/sass/global.sass */
+.lh_12 {
+  line-height: 12px;
+}
+
+/* line 92, ../../src/sass/global.sass */
+.lh_16 {
+  line-height: 16px;
+}
+
+/* line 95, ../../src/sass/global.sass */
+.lh_20 {
+  line-height: 20px;
+}
+
+/* line 99, ../../src/sass/global.sass */
+.ta_l {
+  text-align: left;
+}
+
+/* line 101, ../../src/sass/global.sass */
+.ta_r {
+  text-align: right;
+}
+
+/* line 103, ../../src/sass/global.sass */
+.ta_c {
+  text-align: center;
+}
+
+/* line 106, ../../src/sass/global.sass */
+.fl {
+  float: left;
+}
+
+/* line 108, ../../src/sass/global.sass */
+.fr {
+  float: right;
+}
+
+/* line 110, ../../src/sass/global.sass */
+.clear {
+  clear: both;
+}
+
+/* line 113, ../../src/sass/global.sass */
+.none_select, #main {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* line 121, ../../src/sass/global.sass */
+ul {
+  margin: 0px;
+}
+
+/* line 9, ../../src/sass/index.sass */
+body {
+  font-family: "Hiragino Kaku Gothic ProN", Meiryo, "MS PGothic", sans-serif;
+  background: url("..//img/background.png") #000 center no-repeat;
+  background-size: 100% 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* line 15, ../../src/sass/index.sass */
+#main {
+  width: 100%;
+  height: 100%;
+  min-width: 1024px;
+  min-height: 600px;
+  position: relative;
+}
+
+/* line 23, ../../src/sass/index.sass */
+#canvasFrame {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+/* line 28, ../../src/sass/index.sass */
+#persionInfo {
+  position: absolute;
+  top: 10px;
+  left: 50%;
+  width: 520px;
+  margin-left: -260px;
+  padding: 5px 0px;
+  background-color: #000;
+  text-align: center;
+  color: #FFF;
+}
+
+/* line 39, ../../src/sass/index.sass */
+#selectArea {
+  position: absolute;
+  bottom: 0px;
+  text-align: center;
+  width: 100%;
+}
+
+/* line 45, ../../src/sass/index.sass */
+.btn_data {
+  width: 110px;
+  height: 44px;
+  border: none;
+}
+/* line 49, ../../src/sass/index.sass */
+.btn_data:focus {
+  outline: none;
+  border: none;
+}
+/* line 52, ../../src/sass/index.sass */
+.btn_data:hover {
+  cursor: pointer;
+  background-position: 0px -44px;
+}
+
+/* line 55, ../../src/sass/index.sass */
+.btn_data.select {
+  background-position: 0px -44px;
+}
+
+/* line 57, ../../src/sass/index.sass */
+.btn_data_1 {
+  background: url("..//img/btn/data1.png") no-repeat;
+}
+
+/* line 59, ../../src/sass/index.sass */
+.btn_data_2 {
+  background: url("..//img/btn/data2.png") no-repeat;
+}
+
+/* line 61, ../../src/sass/index.sass */
+.btn_data_3 {
+  background: url("..//img/btn/data3.png") no-repeat;
+}
+
+/* line 63, ../../src/sass/index.sass */
+.btn_data_4 {
+  background: url("..//img/btn/data4.png") no-repeat;
+}
+
+/* line 66, ../../src/sass/index.sass */
+#lock {
+  position: absolute;
+  right: 20px;
+  bottom: 20px;
+}
+
+/* line 70, ../../src/sass/index.sass */
+.btn_lock {
+  width: 88px;
+  height: 88px;
+  border: none;
+  background: url("..//img/btn/lock.png") no-repeat;
+}
+/* line 75, ../../src/sass/index.sass */
+.btn_lock:focus {
+  outline: none;
+  border: none;
+}
+/* line 78, ../../src/sass/index.sass */
+.btn_lock:hover {
+  cursor: pointer;
+  outline: none;
+  border: none;
+  background-position: 0px -88px;
+}
+/* line 83, ../../src/sass/index.sass */
+.btn_lock:active {
+  outline: none;
+  border: none;
+  background-position: 0px -176px;
+}
+
+/* line 88, ../../src/sass/index.sass */
+#txtPass {
+  float: left;
+  width: 230px;
+  height: 43px;
+  font-size: 28px;
+  line-height: 28px;
+  border: 3px solid #000;
+  padding: 2px 4px;
+  margin-left: 125px;
+}
+
+/* line 97, ../../src/sass/index.sass */
+#btnPass {
+  float: right;
+  margin-left: 10px;
+}
+
+/* line 101, ../../src/sass/index.sass */
+.btn_pass {
+  width: 43px;
+  height: 43px;
+  border: none;
+  background: url("..//img/btn/pass_b.png") no-repeat;
+  opacity: 1;
+}
+/* line 107, ../../src/sass/index.sass */
+.btn_pass:focus {
+  outline: none;
+  border: none;
+}
+/* line 110, ../../src/sass/index.sass */
+.btn_pass:hover {
+  cursor: pointer;
+  outline: none;
+  border: none;
+  opacity: 0.6;
+}
+/* line 115, ../../src/sass/index.sass */
+.btn_pass:active {
+  outline: none;
+  border: none;
+  opacity: 1;
+}
+
+/* line 121, ../../src/sass/index.sass */
+.stage {
+  width: 640px;
+  color: #FFF;
+  font-size: 16px;
+  line-height: 20px;
+}
+/* line 128, ../../src/sass/index.sass */
+.stage .head {
+  width: 100%;
+  height: 26px;
+}
+/* line 131, ../../src/sass/index.sass */
+.stage .body {
+  width: 100%;
+  min-height: 20px;
+}
+/* line 134, ../../src/sass/index.sass */
+.stage .foot {
+  width: 100%;
+  height: 26px;
+}
+/* line 138, ../../src/sass/index.sass */
+.stage.target1 .body {
+  background: url("..//img/parts/naka1.png") center no-repeat;
+  background-size: 100% 100%;
+}
+/* line 141, ../../src/sass/index.sass */
+.stage.target1 .foot {
+  background: url("..//img/parts/shita1.png") center no-repeat;
+  background-size: 100% 100%;
+}
+/* line 145, ../../src/sass/index.sass */
+.stage.target2 .body {
+  background: url("..//img/parts/naka2.png") center no-repeat;
+  background-size: 100% 100%;
+}
+/* line 148, ../../src/sass/index.sass */
+.stage.target2 .foot {
+  background: url("..//img/parts/shita2.png") center no-repeat;
+  background-size: 100% 100%;
+}
+/* line 152, ../../src/sass/index.sass */
+.stage.target3 .body {
+  background: url("..//img/parts/naka3.png") center no-repeat;
+  background-size: 100% 100%;
+}
+/* line 155, ../../src/sass/index.sass */
+.stage.target3 .foot {
+  background: url("..//img/parts/shita3.png") center no-repeat;
+  background-size: 100% 100%;
+}
+/* line 159, ../../src/sass/index.sass */
+.stage.target4 .body {
+  background: url("..//img/parts/naka4.png") center no-repeat;
+  background-size: 100% 100%;
+}
+/* line 162, ../../src/sass/index.sass */
+.stage.target4 .foot {
+  background: url("..//img/parts/shita4.png") center no-repeat;
+  background-size: 100% 100%;
+}
+/* line 165, ../../src/sass/index.sass */
+.stage table {
+  width: calc(100% - 40px);
+  margin: 0px 20px;
+  color: #FFF;
+}
+/* line 169, ../../src/sass/index.sass */
+.stage table tr {
+  height: 26px;
+}
+
+/* line 172, ../../src/sass/index.sass */
+#leftStage {
+  position: absolute;
+  top: 100px;
+  left: 20px;
+  width: 300px;
+}
+
+/* line 178, ../../src/sass/index.sass */
+#rightStage {
+  position: absolute;
+  top: 100px;
+  right: 20px;
+  width: 660px;
+  height: calc(100% - 160px);
+}
+/* line 185, ../../src/sass/index.sass */
+#rightStage .scroll {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+/* line 191, ../../src/sass/index.sass */
+#stage1 {
+  float: left;
+}
+/* line 194, ../../src/sass/index.sass */
+#stage1.target1 .head {
+  background: url("..//img/parts/stage1_ue1.png") center no-repeat;
+  background-size: 100% 100%;
+}
+/* line 198, ../../src/sass/index.sass */
+#stage1.target2 .head {
+  background: url("..//img/parts/stage1_ue2.png") center no-repeat;
+  background-size: 100% 100%;
+}
+/* line 202, ../../src/sass/index.sass */
+#stage1.target3 .head {
+  background: url("..//img/parts/stage1_ue3.png") center no-repeat;
+  background-size: 100% 100%;
+}
+/* line 206, ../../src/sass/index.sass */
+#stage1.target4 .head {
+  background: url("..//img/parts/stage1_ue4.png") center no-repeat;
+  background-size: 100% 100%;
+}
+
+/* line 209, ../../src/sass/index.sass */
+#stage2 {
+  float: left;
+  margin-top: 20px;
+}
+/* line 213, ../../src/sass/index.sass */
+#stage2.target1 .head {
+  background: url("..//img/parts/stage2_ue1.png") center no-repeat;
+  background-size: 100% 100%;
+}
+/* line 217, ../../src/sass/index.sass */
+#stage2.target2 .head {
+  background: url("..//img/parts/stage2_ue2.png") center no-repeat;
+  background-size: 100% 100%;
+}
+/* line 221, ../../src/sass/index.sass */
+#stage2.target3 .head {
+  background: url("..//img/parts/stage2_ue3.png") center no-repeat;
+  background-size: 100% 100%;
+}
+/* line 225, ../../src/sass/index.sass */
+#stage2.target4 .head {
+  background: url("..//img/parts/stage2_ue4.png") center no-repeat;
+  background-size: 100% 100%;
+}
+
+/* line 228, ../../src/sass/index.sass */
+#stage3 {
+  float: left;
+  margin-top: 20px;
+}
+/* line 232, ../../src/sass/index.sass */
+#stage3.target1 .head {
+  background: url("..//img/parts/stage3_ue1.png") center no-repeat;
+  background-size: 100% 100%;
+}
+/* line 236, ../../src/sass/index.sass */
+#stage3.target2 .head {
+  background: url("..//img/parts/stage3_ue2.png") center no-repeat;
+  background-size: 100% 100%;
+}
+/* line 240, ../../src/sass/index.sass */
+#stage3.target3 .head {
+  background: url("..//img/parts/stage3_ue3.png") center no-repeat;
+  background-size: 100% 100%;
+}
+/* line 244, ../../src/sass/index.sass */
+#stage3.target4 .head {
+  background: url("..//img/parts/stage3_ue4.png") center no-repeat;
+  background-size: 100% 100%;
+}
+
+/* line 248, ../../src/sass/index.sass */
+.load {
+  position: absolute;
+  top: -1px;
+  left: -1px;
+  width: 1px;
+  height: 1px;
+  background: url("..//img/parts/naka1.png"), url("..//img/parts/shita1.png"), url("..//img/parts/naka2.png"), url("..//img/parts/shita2.png"), url("..//img/parts/naka3.png"), url("..//img/parts/shita3.png"), url("..//img/parts/naka4.png"), url("..//img/parts/shita4.png"), url("..//img/parts/stage1_ue1.png"), url("..//img/parts/stage1_ue2.png"), url("..//img/parts/stage1_ue3.png"), url("..//img/parts/stage1_ue4.png"), url("..//img/parts/stage2_ue1.png"), url("..//img/parts/stage2_ue2.png"), url("..//img/parts/stage2_ue3.png"), url("..//img/parts/stage2_ue4.png"), url("..//img/parts/stage3_ue1.png"), url("..//img/parts/stage3_ue2.png"), url("..//img/parts/stage3_ue3.png"), url("..//img/parts/stage3_ue4.png");
+}
+
+/* line 256, ../../src/sass/index.sass */
+.dialog_body {
+  display: none;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 100;
+}
+/* line 265, ../../src/sass/index.sass */
+.dialog_body .dialog {
+  position: absolute;
+  width: 505px;
+  height: 238px;
+  min-height: 100px;
+  min-width: 100px;
+  top: 50%;
+  left: 50%;
+  background: no-repeat url("..//img/parts/pass_popup.png") 0px 0px;
+}
+/* line 274, ../../src/sass/index.sass */
+.dialog_body .dialog .dialog_close {
+  background: no-repeat url("/sp/img/parts/btn/close.png") 0px 0px;
+  background-size: 30px 30px;
+  cursor: pointer;
+  position: absolute;
+  top: -10px;
+  right: -10px;
+  height: 30px;
+  width: 30px;
+}
+/* line 283, ../../src/sass/index.sass */
+.dialog_body .dialog .dialog_close:hover {
+  background: no-repeat url("/sp/img/parts/btn/close.png") 0px 0px;
+  background-size: 40px 40px;
+  top: -15px;
+  right: -15px;
+  height: 40px;
+  width: 40px;
+}
+/* line 290, ../../src/sass/index.sass */
+.dialog_body .dialog .dialog_contents {
+  display: table-cell;
+  vertical-align: middle;
+  width: 505px;
+  height: 238px;
+}
+
+/* line 296, ../../src/sass/index.sass */
+.ipc {
+  background: url("..//img/icon/pc_ico.png") 0px 2px no-repeat;
+  background-size: 20px 20px;
+  display: inline-block;
+}
+
+/* line 300, ../../src/sass/index.sass */
+.isp {
+  background: url("..//img/icon/sp_ico.png") 0px 2px no-repeat;
+  background-size: 20px 20px;
+  display: inline-block;
+}
+
+/* line 304, ../../src/sass/index.sass */
+.isearch {
+  background: url("..//img/icon/search_ico.png") 0px 2px no-repeat;
+  background-size: 20px 20px;
+  display: inline-block;
+}
+
+/* line 308, ../../src/sass/index.sass */
+.ipage {
+  background: url("..//img/icon/page.png") 0px 2px no-repeat;
+  background-size: 20px 20px;
+  display: inline-block;
+  color: #FFFF00;
+}
+
+/* line 313, ../../src/sass/index.sass */
+.irel {
+  background: url("..//img/icon/real_action_2.png") 0px 2px no-repeat;
+  background-size: 20px 20px;
+  display: inline-block;
+}
+
+/* line 317, ../../src/sass/index.sass */
+.ishop {
+  background: url("..//img/icon/shopping.png") 0px 2px no-repeat;
+  background-size: 20px 20px;
+  display: inline-block;
+  color: #14ECFF;
+}
+
+/* line 322, ../../src/sass/index.sass */
+.tl {
+  padding-left: 22px;
+  width: 158px;
+  max-width: 158px;
+  vertical-align: top;
+}
+
+/* line 328, ../../src/sass/index.sass */
+.tr {
+  padding-left: 22px;
+  width: 100%;
+  word-break: break-all;
+  vertical-align: top;
+}
+
+/* to make scrollbars always visible */

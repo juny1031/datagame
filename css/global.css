@@ -1,0 +1,229 @@
+/* line 6, ../../src/sass/global.sass */
+.space20 {
+  margin: 10px 0;
+}
+
+/* line 8, ../../src/sass/global.sass */
+.space25 {
+  margin: 12.5px 0;
+}
+
+/* line 10, ../../src/sass/global.sass */
+.space30 {
+  margin: 15px 0;
+}
+
+/* line 12, ../../src/sass/global.sass */
+.space40 {
+  margin: 20px 0;
+}
+
+/* line 14, ../../src/sass/global.sass */
+.space50 {
+  margin: 25px 0;
+}
+
+/* line 16, ../../src/sass/global.sass */
+.space60 {
+  margin: 30px 0;
+}
+
+/* line 18, ../../src/sass/global.sass */
+.space100 {
+  margin: 50px 0;
+}
+
+/* line 20, ../../src/sass/global.sass */
+.space150 {
+  margin: 75px 0;
+}
+
+/* line 22, ../../src/sass/global.sass */
+.space200 {
+  margin: 100px 0;
+}
+
+/* line 25, ../../src/sass/global.sass */
+.spaceW21 {
+  margin: 0 10.5px;
+}
+
+/* line 27, ../../src/sass/global.sass */
+.spaceW40 {
+  margin: 0 20px;
+}
+
+/* line 31, ../../src/sass/global.sass */
+.c_f_red {
+  color: #e20046;
+}
+
+/* line 33, ../../src/sass/global.sass */
+.c_f_yellow {
+  color: #FEDF29;
+}
+
+/* line 36, ../../src/sass/global.sass */
+.bold {
+  font-weight: bold;
+}
+
+/* line 39, ../../src/sass/global.sass */
+.fs_10 {
+  font-size: 10px;
+}
+
+/* line 41, ../../src/sass/global.sass */
+.fs_11 {
+  font-size: 11px;
+}
+
+/* line 43, ../../src/sass/global.sass */
+.fs_12 {
+  font-size: 12px;
+  line-height: 12px;
+}
+
+/* line 46, ../../src/sass/global.sass */
+.fs_13 {
+  font-size: 13px;
+  line-height: 14px;
+}
+
+/* line 49, ../../src/sass/global.sass */
+.fs_14 {
+  font-size: 14px;
+  line-height: 16px;
+}
+
+/* line 52, ../../src/sass/global.sass */
+.fs_15 {
+  font-size: 15px;
+  line-height: 18px;
+}
+
+/* line 55, ../../src/sass/global.sass */
+.fs_16 {
+  font-size: 16px;
+  line-height: 20px;
+}
+
+/* line 58, ../../src/sass/global.sass */
+.fs_17 {
+  font-size: 17px;
+  line-height: 22px;
+}
+
+/* line 61, ../../src/sass/global.sass */
+.fs_18 {
+  font-size: 18px;
+  line-height: 24px;
+}
+
+/* line 64, ../../src/sass/global.sass */
+.fs_19 {
+  font-size: 19px;
+  line-height: 26px;
+}
+
+/* line 67, ../../src/sass/global.sass */
+.fs_20 {
+  font-size: 20px;
+  line-height: 28px;
+}
+
+/* line 70, ../../src/sass/global.sass */
+.fs_21 {
+  font-size: 21px;
+  line-height: 30px;
+}
+
+/* line 73, ../../src/sass/global.sass */
+.fs_22 {
+  font-size: 22px;
+  line-height: 32px;
+}
+
+/* line 76, ../../src/sass/global.sass */
+.fs_23 {
+  font-size: 23px;
+  line-height: 34px;
+}
+
+/* line 79, ../../src/sass/global.sass */
+.fs_24 {
+  font-size: 24px;
+  line-height: 36px;
+}
+
+/* line 82, ../../src/sass/global.sass */
+.fs_25 {
+  font-size: 25px;
+  line-height: 38px;
+}
+
+/* line 85, ../../src/sass/global.sass */
+.fs_26 {
+  font-size: 26px;
+  line-height: 40px;
+}
+
+/* line 89, ../../src/sass/global.sass */
+.lh_12 {
+  line-height: 12px;
+}
+
+/* line 92, ../../src/sass/global.sass */
+.lh_16 {
+  line-height: 16px;
+}
+
+/* line 95, ../../src/sass/global.sass */
+.lh_20 {
+  line-height: 20px;
+}
+
+/* line 99, ../../src/sass/global.sass */
+.ta_l {
+  text-align: left;
+}
+
+/* line 101, ../../src/sass/global.sass */
+.ta_r {
+  text-align: right;
+}
+
+/* line 103, ../../src/sass/global.sass */
+.ta_c {
+  text-align: center;
+}
+
+/* line 106, ../../src/sass/global.sass */
+.fl {
+  float: left;
+}
+
+/* line 108, ../../src/sass/global.sass */
+.fr {
+  float: right;
+}
+
+/* line 110, ../../src/sass/global.sass */
+.clear {
+  clear: both;
+}
+
+/* line 113, ../../src/sass/global.sass */
+.none_select {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* line 121, ../../src/sass/global.sass */
+ul {
+  margin: 0px;
+}
